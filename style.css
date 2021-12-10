@@ -1,0 +1,64 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+    /* font-family: 'Cabin', sans-serif; */
+}
+.container{
+    max-width:80%;
+    /* background-color:rgb(202, 146, 255); */
+    padding:34px;
+    margin:auto;
+}
+.container h1{
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    font-size: 40px;
+}
+p{
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    font-size: 17px;
+}
+
+input, textarea{
+   
+    width: 90%;
+    margin: 5px;
+    padding: 7px;
+    font-size: 15px;
+    border: 2px solid purple;
+    border-radius: 12px;
+    outline: none;
+
+}
+form{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+}
+.btn{
+    /* align-items: center; */
+    color: azure;
+    background:blueviolet;
+    padding:15px 10px;
+    font-size: 20px;
+    border:2px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+.po1{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.6;
+
+}
+.Msg{
+    font-size: 20px;
+    color: greenyellow;
+
+}
