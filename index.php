@@ -4,16 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Register Page</title>
+    <title>Registration Page</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cabin:ital@1&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css"><!-- statement to link css file -->
 </head>
 <body>
-    <img class=po1 src="po1.jpg" alt="purple ocean" >
+    <img class=po1 src="po2.jpg" alt="purple ocean" >
     <div class="container">
-        <h1>Registration</h1>
+        <h1>Registration Into Metaverse</h1>
         <P>Enter your details and submit this form to confirm your participation in this event</P>
         <!-- <p class="submitMsg">Thanks for submitting your form. We are happy to see you
              in the purple ocean</p> -->
